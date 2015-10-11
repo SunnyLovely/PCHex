@@ -61,5 +61,6 @@ s16 	overlayGetMove();
 s16 	overlayGetAbility();
 s16 	overlayGetItems();
 s16 	overlayGetBalls();
+s16   overlayGetMLocation();
 
 #endif /* end of include guard: PCHEX_H */
