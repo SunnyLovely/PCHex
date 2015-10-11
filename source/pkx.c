@@ -168,6 +168,11 @@ s8 	setPkmSpecies(struct s_pkm *pkm, u16 species)
   return 0;
 }
 
+s8      setMetLocation(struct s_pkm *pkm, u16species)
+{
+  
+}
+
 s8 	rerollPID(struct s_pkm *pkm)
 {
   pkm->pkx.personalityID = rand();
