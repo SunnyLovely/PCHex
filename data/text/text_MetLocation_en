@@ -1,1 +1,294 @@
-
+00000	----------
+00002	Mystery Zone
+00004	Faraway Place
+00006	Vaniville Town
+00008	Route 1
+00009	Vaniville Pathway
+00010	Aquacorde Town
+00012	Route 2
+00013	Avance Trail
+00014	Santalune Forest
+00016	Route 3
+00017	Ouvert Way
+00018	Santalune City
+00020	Route 4
+00021	Parterre Way
+00022	Lumiose City
+00024	Prism Tower
+00026	Lysandre Labs
+00028	Route 5
+00029	Versant Road
+00030	Camphrier Town
+00032	Shabboneau Castle
+00034	Route 6
+00035	Palais Lane
+00036	Parfum Palace
+00038	Route 7
+00039	Rivière Walk
+00040	Cyllage City
+00042	Route 8
+00043	Muraille Coast
+00044	Ambrette Town
+00046	Route 9
+00047	Spikes Passage
+00048	Battle Chateau
+00050	Route 10
+00051	Menhir Trail
+00052	Geosenge Town
+00054	Route 11
+00055	Miroir Way
+00056	Reflection Cave
+00058	Shalour City
+00060	Tower of Mastery
+00062	Route 12
+00063	Fourrage Road
+00064	Coumarine City
+00066	Route 13
+00067	Lumiose Badlands
+00068	Route 14
+00069	Laverre Nature Trail
+00070	Laverre City
+00072	Poke Ball Factory
+00074	Route 15
+00075	Brun Way
+00076	Dendemille Town
+00078	Route 16
+00079	Mélancolie Path
+00082	Frost Cavern
+00084	Route 17
+00085	Mamoswine Road
+00086	Anistar City
+00088	Route 18
+00089	Vallée Étroite Way
+00090	Couriway Town
+00092	Route 19
+00093	Grande Vallée Way
+00094	Snowbelle City
+00096	Route 20
+00097	Winding Woods
+00098	Pokémon Village
+00100	Route 21
+00101	Dernière Way
+00102	Route 22
+00103	Détourner Way
+00104	Victory Road (Kalos)
+00106	Pokémon League (Kalos)
+00108	Kiloude City
+00110	Battle Maison
+00112	Azure Bay
+00114	Dendemille Gate
+00116	Couriway Gate
+00118	Ambrette Gate
+00120	Lumiose Gate
+00122	Shalour Gate
+00124	Coumarine Gate
+00126	Laverre Gate
+00128	Anistar Gate
+00130	Snowbelle Gate
+00132	Glittering Cave
+00134	Connecting Cave
+00135	Zubat Roost
+00136	Kalos Power Plant
+00138	Team Flare Secret HQ
+00140	Terminus Cave
+00142	Lost Hotel
+00144	Chamber of Emptiness
+00146	Sea Spirit's Den
+00148	Friend Safari
+00150	Blazing Chamber
+00152	Flood Chamber
+00154	Ironworks Chamber
+00156	Dragonmark Chamber
+00158	Radiant Chamber
+00160	Pokémon League Gate
+00162	Lumiose Station
+00164	Kiloude Station
+00166	Ambrette Aquarium
+00168	Unknown Dungeon
+00170	Littleroot Town
+00172	Oldale Town
+00174	Dewford Town
+00176	Lavaridge Town
+00178	Fallarbor Town
+00180	Verdanturf Town
+00182	Pacifidlog Town
+00184	Petalburg City
+00186	Slateport City
+00188	Mauville City
+00190	Rustboro City
+00192	Fortree City
+00194	Lilycove City
+00196	Mossdeep City
+00198	Sootopolis City
+00200	Ever Grande City
+00202	Pokémon League (Hoenn)
+00204	Route 101
+00206	Route 102
+00208	Route 103
+00210	Route 104
+00212	Route 105
+00214	Route 106
+00216	Route 107
+00218	Route 108
+00220	Route 109
+00222	Route 110
+00224	Route 111
+00226	Route 112
+00228	Route 113
+00230	Route 114
+00232	Route 115
+00234	Route 116
+00236	Route 117
+00238	Route 118
+00240	Route 119
+00242	Route 120
+00244	Route 121
+00246	Route 122
+00248	Route 123
+00250	Route 124
+00252	Route 125
+00254	Route 126
+00256	Route 127
+00258	Route 128
+00260	Route 129
+00262	Route 130
+00264	Route 131
+00266	Route 132
+00268	Route 133
+00270	Route 134
+00272	Meteor Falls
+00274	Rusturf Tunnel
+00276	??? (Inside of Truck)
+00278	Desert Ruins
+00280	Granite Cave
+00282	Petalburg Woods
+00284	Mt. Chimney
+00286	Jagged Pass
+00288	Fiery Path
+00290	Mt. Pyre
+00292	Team Aqua Hideout
+00294	Seafloor Cavern
+00296	Cave of Origin
+00298	Victory Road (Hoenn)
+00300	Shoal Cave
+00302	New Mauville
+00304	Sea Mauville
+00306	Island Cave
+00308	Ancient Tomb
+00310	Sealed Chamber
+00312	Scorched Slab
+00314	Team Magma Hideout
+00316	Sky Pillar
+00318	Battle Resort
+00320	Southern Island
+00322	S.S. Tidal
+00324	Safari Zone
+00326	Mirage Forest
+00328	Mirage Cave
+00330	Mirage Island
+00332	Mirage Mountain
+00334	Trackless Forest
+00336	Pathless Plain
+00338	Nameless Cavern
+00340	Fabled Cave
+00342	Gnarled Den
+00344	Crescent Isle
+00346	Secret Islet
+00348	Soaring in the sky
+00350	Secret Shore
+00352	Secret Meadow
+00354	Secret Base
+30001	a Link Trade
+30002	a Link Trade
+30003	the Kanto region
+30004	the Johto region
+30005	the Hoenn region
+30006	the Sinnoh region
+30007	a distant land
+30008	----------
+30009	the Unova region
+30010	the Kalos region
+30011	Pokémon Link
+40001	a lovely place
+40002	a faraway place
+40003	a Pokémon movie
+40004	Pokémon Movie 13
+40005	Pokémon Movie 14
+40006	Pokémon Movie 15
+40007	Pokémon Movie 16
+40008	Pokémon Movie 17
+40009	Pokémon Movie 18
+40010	a Pokémon Center
+40011	the Pokémon cartoon
+40012	PC Tokyo
+40013	PC Osaka
+40014	PC Fukuoka
+40015	PC Nagoya
+40016	PC Sapporo
+40017	PC Yokohama
+40018	PC Tohoku
+40019	PC Tokyo Bay
+40020	a Pokémon Store
+40021	a WCS
+40022	WCS 2013
+40023	WCS 2014
+40024	WCS 2015
+40025	WCS 2016
+40026	WCS 2017
+40027	WCS 2018
+40028	Worlds
+40029	Worlds 2013
+40030	Worlds 2014
+40031	Worlds 2015
+40032	Worlds 2016
+40033	Worlds 2017
+40034	Worlds 2018
+40035	a VGE
+40036	VGE 2013
+40037	VGE 2014
+40038	VGE 2015
+40039	VGE 2016
+40040	VGE 2017
+40041	VGE 2018
+40042	a Pokémon event
+40043	a Battle Competition
+40044	a game event
+40045	the Pokémon Fan Club
+40046	a Pokémon TV program
+40047	a concert
+40048	an online Present
+40049	the PGL
+40050	Pokémon Event 13
+40051	Pokémon Event 14
+40052	Pokémon Event 15
+40053	Pokémon Event 16
+40054	Pokémon Event 17
+40055	Pokémon Event 18
+40056	Pokémon Festa
+40057	Pokémon Festa 13
+40058	Pokémon Festa 14
+40059	Pokémon Festa 15
+40060	Pokémon Festa 16
+40061	Pokémon Festa 17
+40062	Pokémon Festa 18
+40063	POKÉPARK
+40064	POKÉPARK
+40065	POKÉPARK
+40066	POKÉPARK
+40067	POKÉPARK
+40068	POKÉPARK
+40069	POKÉPARK
+40070	an event site
+40071	GAME FREAK
+40072	a stadium
+40073	a VGC
+40074	the VGC 2013
+40075	the VGC 2014
+40076	the VGC 2015
+40077	the VGC 2016
+40078	the VGC 2017
+40079	the VGC 2018
+60001	a stranger
+60002	a Day-Care CoupleXY/Day Care helpersORAS
+60003	a treasure hunter
+60004	an old hot-springs visitor
