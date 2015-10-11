@@ -170,7 +170,8 @@ s8 	setPkmSpecies(struct s_pkm *pkm, u16 species)
 
 s8      setMetLocation(struct s_pkm *pkm, u16species)
 {
-  
+  SetMetLocation(pkm, pkm->metLocation);
+  return 0;
 }
 
 s8 	rerollPID(struct s_pkm *pkm)
