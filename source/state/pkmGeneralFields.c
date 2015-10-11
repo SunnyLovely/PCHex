@@ -186,6 +186,15 @@ void 	pkmGenSID(t_stinf *state)
 void 	pkmGenMetLocation(t_stinf *state)
 {
   if (stdInputField(state, -1, 1, 0, 0)) return;
+  if (state->kPressed & KEY_A)
+  {
+    u16 target = overlayGetMLocation();
+    if (target < 0)
+      return;
+    setPkmSpecies(&state->pkm, target);
+    state->modded = 1;
+  }
+  
 }
 
 void 	pkmGenMetDate(t_stinf *state)
