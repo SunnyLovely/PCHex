@@ -317,3 +317,27 @@ s16	overlayGetBalls()
     return -1;
   return over.foundIndex[over.dataIndex];
 }
+s16        overlayGetMLocation()
+{
+	struct s_overlay 	over;
+	char			tmp[12];
+	
+	strcpy(over.list, "abcdefghijklmnopqrstuvwxyz ");
+	strcpy(over.title, "Choose a Met Location");
+	over.dst = tmp;
+	over.maxlen = 12;
+	over.offs = 0;
+	over.index = 0;
+	over.dataIndex = -1;
+	over.data = pkData.Mlocation[0];
+	over.entrylen = 20;
+	over.datacount = 294;
+	over.foundIndex[0] = -1;
+	memcpy(&over.win, consoleGetDefault(), sizeof(PrintConsole));
+	doSearch(&over);
+	launchOverlay(&over);
+	if (over.dataIndex < 0)
+	  return -1;
+	return over.foundIndex[over.dataIndex];
+}
+}
