@@ -73,6 +73,13 @@ s8 	loadData(Handle *sdHandle, FS_archive *sdArchive)
   loadLines(tmp, pkData.balls[0], 13, bytesRead);
   printf(" OK\n");
   return 0;
+  
+  printf("Loading Location names...");
+  ret = loadFile("/3ds/PCHex/data/text/text_MetLocation_en.txt", tmp, sdArchive, sdHandle, 12000, &bytesRead);
+  if (ret) { printf("loading failed : error code %ld\n", ret); return ret; }
+  loadLines(tmp, pkData.metLocation[0], 20, bytesRead);
+  printf(" OK\n");
+  return 0;
 }
 
 void 	waitKey(u32 keyWait)
